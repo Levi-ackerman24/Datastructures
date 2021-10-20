@@ -9,10 +9,10 @@ For beginners - [Jump to this section.](#for-beginners)
 
 # Hacktoberfest
 
-Implemented as a part of ***Hacktoberfest 2020 - Open source for Beginners*** session conducted on 01/10/2020.
+Implemented as a part of ***Hacktoberfest 2021 - Open source for Beginners*** session conducted on 01/10/2021.
 You can watch the [recording here.](https://www.youtube.com/watch?v=nXNvyQIFAFQ&feature=youtu.be).
 
-![Hacktoberfest2020](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125)
+![Hacktoberfest2021](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125)
 
 Hacktoberfest is a month-long celebration of open source software in partnership with Github.
 A repository for beginners to create their first Pull Request and repository for veteran contributors to contribute cool snippets.
@@ -54,3 +54,5 @@ Go through the FAQs section on the Hacktoberfest website - https://hacktoberfest
 And voila! You have created a new pull request! Now all that's left is for the maintainer for the project/repository to review your PR and merge it if it is good to go!
 
 &nbsp;
+
+**happy hacktoberfest-2021**
