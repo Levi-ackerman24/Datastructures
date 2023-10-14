@@ -14,7 +14,7 @@ You can watch the [recording here.](https://www.youtube.com/watch?v=nXNvyQIFAFQ&
 
 ![Hacktoberfest2020](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125)
 
-Hacktoberfest is a month-long celebration of open source software in partnership with Github.
+Hacktoberfest is a month-long celebration of open-source software in partnership with Github.
 A repository for beginners to create their first Pull Request and repository for veteran contributors to contribute cool snippets.
 
 ## Create 4 valid pull requests to get official Hacktoberfest Swags and Goodies!
